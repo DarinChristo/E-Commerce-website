@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "_id": "6c8mda2mpxm6chl",
+      "username": "admin",
+      "email": "admin@techphone.com",
+      "password": "$2b$10$M2N1vnJBnzeaR/F7cwJ5jeeWIDAUYssURNtJ3vh57vr2.dU8nQmHG",
+      "role": "admin",
+      "createdAt": "2026-06-03T05:16:39.993Z"
+    },
+    {
+      "_id": "dx81ig0mpyaqo6t",
+      "username": "testuser_1780505058934",
+      "email": "testuser_1780505058932@example.com",
+      "password": "$2b$10$iJ7MwZeHfYUNmn80MLWFKeitEssiPRYAb7/HdMKfaqPUDaloargZC",
+      "role": "user",
+      "createdAt": "2026-06-03T16:44:19.061Z"
+    },
+    {
+      "_id": "u2d8kttmpyav7qh",
+      "username": "Darin Christo",
+      "email": "darinchristo2019@gmail.com",
+      "password": "$2b$10$Z7LpqplzgieGxHEDeqHdyuliKh.4AFYF8IDwzwzit6xxyX66F.RG.",
+      "role": "user",
+      "createdAt": "2026-06-03T16:47:51.017Z"
+    }
+  ],
+  "products": [
+    {
+      "_id": "vlksxcvmpxm6ceb",
+      "name": "iPhone 15 Pro max",
+      "brand": "Apple",
+      "price": 79900,
+      "image": "https://i.pinimg.com/1200x/db/d8/8b/dbd88bc1c82715e056def5b4f7564a49.jpg",
+      "description": "Features Dynamic Island, a 48MP main camera, and durable color-infused glass design in a sleek form factor.",
+      "stock": 8,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "ohicdwampxm6ceb",
+      "name": "Google Pixel 8 Pro",
+      "brand": "Google",
+      "price": 109900,
+      "image": "https://i.pinimg.com/1200x/7f/94/6a/7f946ad8484f77e08529409b430a9afb.jpg",
+      "description": "Google AI-driven smartphone, providing the cleanest Android experience, professional photo processing, and magic eraser.",
+      "stock": 16,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "zyzaalympxm6ceb",
+      "name": "Xiaomi 14 Ultra",
+      "brand": "Xiaomi",
+      "price": 99999,
+      "image": "https://i.pinimg.com/1200x/91/cb/e2/91cbe2a8e9c13ab4f34a51426df11238.jpg",
+      "description": "Co-engineered with Leica. Snapdragon 8 Gen 3, quad-camera system, and professional display.",
+      "stock": 5,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "adfu9vdmpxm6ceb",
+      "name": "Vivo X200Fe",
+      "brand": "Vivo",
+      "price": 89999,
+      "image": "https://i.pinimg.com/736x/2b/ff/5e/2bff5ebb56a51a1c970c5cd648b3a142.jpg",
+      "description": "ZEISS Apo Telephoto Camera, Dimensity 9300 processor, and premium luxury leatherback design.",
+      "stock": 5,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "0ruy9f5mpxm6ceb",
+      "name": "Oppo Find N3 Flip",
+      "brand": "Oppo",
+      "price": 94999,
+      "image": "https://i.pinimg.com/1200x/31/db/ef/31dbefba47a1ed2615eb540febfd5150.jpg",
+      "description": "Premium vertical foldable with Hasselblad triple cameras, large cover screen, and zero-crease hinge.",
+      "stock": 3,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "g41d433mpxm6ceb",
+      "name": "Nothing Phone 2a",
+      "brand": "Nothing",
+      "price": 44999,
+      "image": "https://i.pinimg.com/736x/61/e7/46/61e746e7eb8894e7d05c3bb54917a64a.jpg",
+      "description": "Featuring the iconic Glyph Interface, clean Nothing OS 2.0, premium transparent design, and dual 50MP cameras.",
+      "stock": 7,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "urxbk54mpxm6ceb",
+      "name": "Realme GT 6T",
+      "brand": "Realme",
+      "price": 49999,
+      "image": "https://i.pinimg.com/736x/77/9a/8f/779a8f73959f84afce1141040a782562.jpg",
+      "description": "Snapdragon 8 Gen 3 flagship killer, periscope telephoto camera, and 100W superfast charging.",
+      "stock": 8,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "0gqg4vhmpxm6ceb",
+      "name": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "price": 154900,
+      "image": "https://i.pinimg.com/1200x/50/5d/4e/505d4e889884f72b270ec964fdb87149.jpg",
+      "description": "An excellent entry point into the iOS ecosystem. Great battery life, dual camera system, and the A15 Bionic chip.",
+      "stock": 4,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "4vzc2k8mpxm6ceb",
+      "name": "Google pixel 10a",
+      "brand": "Google",
+      "price": 47690,
+      "image": "https://i.pinimg.com/736x/3f/e6/19/3fe61945e73fe83091b178eb94f313c1.jpg",
+      "description": "Amazing multi-day battery life, stereo speakers, clean interface, and expandable storage. Best budget Android model.",
+      "stock": 5,
+      "createdAt": "2026-06-03T05:16:39.875Z"
+    },
+    {
+      "_id": "v8cmrebmpxnhvh1",
+      "name": " Nothing Phone 4a",
+      "brand": "Nothing",
+      "price": 37397,
+      "image": "https://i.pinimg.com/1200x/67/fa/86/67fa864098e8a8f41bce7ef5f64e77d6.jpg",
+      "description": "Premium smartphone.",
+      "stock": 8,
+      "createdAt": "2026-06-03T05:53:37.429Z"
+    },
+    {
+      "_id": "mk7rlmvmpxnkhz6",
+      "name": "Iphone 15",
+      "brand": "Apple",
+      "price": 59000,
+      "image": "https://i.pinimg.com/1200x/a8/7c/93/a87c93b067cfb697e477fbf8039d64fc.jpg",
+      "description": "The Apple iPhone 15 features a 6.1-inch Super Retina XDR display, the powerful A16 Bionic processor, and an advanced 48 MP main camera. It introduces the Dynamic Island, a durable color-infused glass back with aerospace-grade aluminum, and a convenient USB-C port for charging.",
+      "stock": 4,
+      "createdAt": "2026-06-03T05:55:39.906Z"
+    }
+  ]
+}
